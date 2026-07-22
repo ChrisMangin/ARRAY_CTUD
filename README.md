@@ -105,3 +105,9 @@ XIC(MY_TRIGGER_ARRAY[MY_CTR.EFF_INC]) -> CTU
 ## Related
 
 - [**ARRAY_TIMER**](https://github.com/ChrisMangin/ARRAY_TIMER) - same pattern applied to timers: 1,050 independent delay channels, ~5x smaller than native TIMER tags
+
+---
+
+## License
+
+MIT - see [LICENSE](LICENSE).
